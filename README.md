@@ -1,5 +1,6 @@
 # new-project
 DevOps та Kubernetes training course on prometheus. Week 2.
+Test task
 
 ## Getting started
 
