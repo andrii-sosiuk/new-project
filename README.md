@@ -39,7 +39,7 @@ git push
 If the branch is not on the remote server you might need run first
 
 ```
-git push
+git push --set-upstream origin new_branch_name
 ```
 
 ## merge branches
